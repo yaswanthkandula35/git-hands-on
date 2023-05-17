@@ -100,7 +100,7 @@ git log
 
 ```powershell
 cd ..
-git clone https://github.com/dahlbyk/git-hands-on.git katas
+git clone https://github.com/Sangwan70/git-hands-on.git katas
 
 # Let's see what we have
 cd katas
@@ -155,17 +155,17 @@ git push
 Oops! That didn't work because you don't have permission to push.
 
 1. [Create a GitHub account](https://github.com/join) and
-   [sign in](https://github.com/login?return_to=/dahlbyk/git-hands-on)
+   [sign in](https://github.com/login?return_to=/Sangwan70/git-hands-on)
 
-2. From [this project on GitHub](https://github.com/dahlbyk/git-hands-on),
+2. From [this project on GitHub](https://github.com/Sangwan70/git-hands-on),
    click the Fork button
 
 3. Once forking is complete, click the **Clone or download** button
-   and copy the HTTPS URL (e.g. `https://github.com/coridrew/git-hands-on.git`)
+   and copy the HTTPS URL (e.g. `https://github.com/Sangwan70/git-hands-on.git`)
 
 ```powershell
 # Now let's point origin at your fork
-git remote set-url origin https://github.com/coridrew/git-hands-on.git
+git remote set-url origin https://github.com/Sangwan70/git-hands-on.git
 
 # And try pushing again
 git push
@@ -231,7 +231,7 @@ gitk --branches
 
 ```powershell
 # First, let's add a remote for the parent repository...
-git remote add upstream https://github.com/dahlbyk/git-hands-on.git
+git remote add upstream https://github.com/Sangwan70/git-hands-on.git
 
     # <internals>
     ls .git/refs/remotes/
@@ -342,12 +342,4 @@ git merge feature2
 # And even multiple branches at once ("octopus merge")
 git reset --hard HEAD~2
 git merge origin/feature1 feature2 feature3
-```
-
-## 9. Katas
-
-`katas` branch has its own readme!
-
-```powershell
-git checkout katas
 ```
