@@ -1,3 +1,3 @@
-https://objectstorage.us-ashburn-1.oraclecloud.com/p/pIZFxlZaHDQZ9WXMRPHvv3yyCKuBCDbtvt0RbjGoNfHIxHGhg8M4o290qIQRi544/n/idrues0zhwlo/b/CourseMaterial/o/DevOps%20on%20OCI%20Day2.zip
-
-https://objectstorage.us-ashburn-1.oraclecloud.com/p/ZnG6jzw-m9cnR7T7GtQPjvLPDNnm45Ni6nbvPaHWea9Y8Wefwno6BMyI2fxnhWIz/n/idrues0zhwlo/b/CourseMaterial/o/oepe-12.2.1.9-photon-distro-linux-gtk-x86_64.zip
+https://cloud.oracle.com/?tenant=ocuocictrng18
+99231983-lab.user19
+!685bpBK];F{H$c.-]Ml
