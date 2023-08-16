@@ -344,3 +344,4 @@ git reset --hard HEAD~2
 git merge origin/feature1 feature2 feature3
 ```
 New Line Added on July 26
+Hey
